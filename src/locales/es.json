@@ -1,0 +1,21 @@
+{
+  "brand": { "name": "Ibis Interactive", "homeLabel": "Ir al inicio de Ibis Interactive" },
+  "nav": { "home": "Inicio", "about": "Nosotros", "portfolio": "Juegos", "team": "Equipo", "open": "Abrir navegación" },
+  "footer": { "presskit": "Presskit", "privacy": "Política de privacidad", "contact": "Contáctanos y síguenos en:" },
+  "home": { "portfolio": "Nuestros juegos" },
+  "about": { "title": "Acerca de Nosotros", "subtitle": "¿Quiénes somos?", "description": "Ibis Interactive es un grupo de amantes de los videojuegos y artes visuales ubicado en Valdivia, Chile. Con orígenes en las Global Game Jams desde 2020, el grupo creció y tomó impulso en 2023, formalizándose en 2025.<br/>Ibis busca crear experiencias únicas, con historias cautivantes y arte icónico.", "video": "Presentación de Ibis Interactive" },
+  "portfolio": { "title": "Nuestros Juegos", "text": "Una pequeña lista de nuestros juegos" },
+  "team": { "title": "Nuestro Equipo", "favorites": "Juegos favoritos", "member": "Integrante del equipo" },
+  "mainGame": { "title": "Don Pepe y sus globos", "description": "Don Pepe es el presentador del programa de concursos más prendido de la tele, donde concursantes de todo el mundo chocan en intensas batallas con bombitas de agua.<br/>Lo que empezó como un simple plan para estafar niños se ha convertido en un auténtico deporte, y sólo puede haber un ganador. ¿Podrás lograrlo?" },
+  "carousel": { "previous": "Anterior", "next": "Siguiente" },
+  "common": { "close": "Cerrar" },
+  "privacy": {
+    "title": "Política de Privacidad y Uso de Datos Personales",
+    "intro": "En <strong>Ibis Interactive</strong> respetamos y protegemos la privacidad de nuestros jugadores. Tratamos los datos de forma responsable, segura y transparente.",
+    "collection": { "title": "Recolección de información", "text": "Nuestros juegos <strong>no recopilan información personal identificable</strong>. Recopilamos únicamente información anónima relacionada con la actividad dentro del juego:", "items": ["Duración de las sesiones de juego", "Eventos del usuario, como clics, botones presionados o niveles alcanzados", "Información técnica no identificable, como el sistema operativo o la resolución de pantalla"] },
+    "use": { "title": "Uso y tratamiento de los datos", "text": "Los datos se anonimizan y se utilizan internamente. <strong>No vendemos, compartimos ni transferimos datos a terceros</strong>.", "items": ["Optimizar la experiencia del usuario", "Detectar errores o problemas de rendimiento", "Mejorar nuestros productos y funcionalidades"] },
+    "security": { "title": "Seguridad y confidencialidad", "text": "Aplicamos medidas técnicas y organizativas para proteger la información frente a accesos no autorizados, pérdida o manipulación. El acceso está restringido a personal autorizado.", "items": [] },
+    "rights": { "title": "Derechos del usuario", "text": "Puedes consultar qué información se recopila o solicitar la eliminación de datos anónimos contactándonos en:", "items": [] },
+    "changes": { "title": "Cambios a esta política", "text": "Podemos actualizar esta política. Cualquier modificación será informada dentro del juego o en nuestros canales oficiales.", "items": [] }
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "games": [
+        {
+            "title": "Don Pepe y sus globos (DEMO)",
+            "imgSrc": "don-pepe.png",
+            "altText": "portfolio don pepe y sus globos",
+            "modalId": "donpepe",
+            "description": {
+                "en": "Don Pepe is the host of the hottest game show on the air, where contestants from all over the world clash in intense water balloon fights!<br />What started as a simple plan to scam children has now grown into a legitimate sport, and there can only be one winner. ¿Do you have what it takes?",
+                "es": "Don Pepe es el presentador del programa de concursos más prendido de la tele, donde concursantes de todo el mundo chocan en intensas batallas con bombitas de agua!<br />Lo que empezó como un simple plan para estafar niños se ha convertido en un auténtico deporte, y sólo puede haber un ganador. ¿Podrás lograrlo?"
+            },
+            "link": [{"store":"Steam", "icon": "steam","url":"https://store.steampowered.com/app/4079810/Don_Pepe_y_sus_globos/"}],
+            "playOn": {
+                "en": "Wishlist on",
+                "es": "Agregar a la lista de deseos de"
+            }
+        },
+        {
+            "title": "LongaMóvil",
+            "imgSrc": "longamovil.png",
+            "altText": "portfolio longamovil",
+            "modalId": "lonvamovil",
+            "description": {
+                "en": "Welcome to the LongaMóvil! <br/>Your mission is to serve the best choripanes, with the perfect cooking and precise condiments, to support the MSPLSC and prove once and for all that the true longaniza is Sancarlina.<br/>Official video game of the Chilean film <a href='https://www.instagram.com/denominaciondeorigenfilm/'>Denominación de Origen </a>, in theaters from April 24th.",
+                "es": "¡Bienvenidx al LongaMóvil! <br/>Tu misión es servir los mejores choripanes, con la cocción perfecta y los condimentos precisos, para apoyar al MSPLSC y demostrar de una vez por todas que la verdadera longaniza es Sancarlina.<br/>Videojuego oficial de la película chilena <a href='https://www.instagram.com/denominaciondeorigenfilm/'>Denominación de Origen </a>, en cines desde el 24 de Abril."
+            },
+            "link": [{"store": "Google Play", "icon":"google-play", "url": "https://play.google.com/store/apps/details?id=com.ibisinteractive.longamovil"}, {"store": "App Store",  "icon":"app-store-ios", "url": "https://apps.apple.com/cl/app/longamovil/id6744369874"}],
+            "playOn": {
+                "en": "Download on",
+                "es": "Descárgalo en"
+            }
+        },
+        {
+            "title": "Eco",
+            "imgSrc": "eco.png",
+            "altText": "portfolio eco",
+            "modalId": "eco",
+            "description": {
+                "en": "Eco is an adventure game where you are a small creature that must find its own essence in a world of magical creatures.<br/>Build the masks of each species to gain new abilities, but use them carefully so you don't lose your nature completely...<br/>Original version developed at <strong>Global Game Jam Valdivia 2026</strong>",
+                "es": "Eco es un juego de aventura donde eres una pequeña criatura que debe su propia esencia en un mundo de criaturas mágicas.<br/>Construye las máscaras de cada especie para obtener nuevas habilidades, pero úsalas con cuidado para no perder tu naturaleza por completo...<br/>Versión original desarrollada en <strong>Global Game Jam Valdivia 2026</strong>"
+            },
+            "link": [{"store":"Itch.io", "icon": "itchio","url":"https://ibis-interactive.itch.io/eco"}],
+            "playOn": {
+                "en": "Download on",
+                "es": "Descárgalo en"
+            }
+        },
+        {
+            "title": "Picoteo",
+            "imgSrc": "picoteo.png",
+            "altText": "portfolio picoteo",
+            "modalId": "picoteo",
+            "description": {
+                "en": "Picoteo is a casual game where you must help a bandurria feed in the wetland it inhabits, while avoiding trash and predators.<br/>Eat, score points, and climb the leaderboard!<br/>Picoteo was developed for and premiered at the 2024 edition of the <a class='description-link' href='https://9punto5.cl'>9.5</a> conference.",
+                "es": "Picoteo es un juego casual donde debes ayudar a una bandurria a alimentarse en el humedal que habita, mientras evita la basura y a sus depredadores.<br/>¡Come, suma puntos y trepa en la tabla de posiciones!<br/>Picoteo fue desarrollado para y estrenado en la edición 2024 de la conferencia <a class='description-link' href='https://9punto5.cl'>9.5</a>."
+            },
+            "link": [{"store":"Itch.io", "icon": "itchio","url":"https://ibis-interactive.itch.io/picoteo"}],
+            "playOn": {
+                "en": "Play on",
+                "es": "Juegalo en"
+            }
+        },
+        {
+            "title": "You're Next (DEMO)",
+            "imgSrc": "youre-next.png",
+            "altText": "portfolio you're next",
+            "modalId": "yourenext",
+            "description": {
+                "en": "Six friends meet up to party in a creepy, old mansion. What could go wrong? A lot - there are rumors and creepypastas gaining traction about a video game killer that's murdering people in the real world, leaving its signature mark. A warning to its next victim: YOU'RE NEXT.",
+                "es": "Seis amigos se reúnen para festejar en una mansión antigua y espeluznante. ¿Qué podría salir mal? Mucho: hay rumores y creepypastas que ganan fuerza sobre un asesino de videojuegos que está matando personas en el mundo real, dejando su marca característica. Una advertencia para su próxima víctima: TÚ ERES EL PRÓXIMO."
+            },
+            "link": [{"store":"Itch.io", "icon": "itchio","url":"https://njaramillo.itch.io/youre-next"}],
+            "playOn": {
+                "en": "Download on",
+                "es": "Descárgalo en"
+            }
+        },
+        {
+            "title": "Blade of the Overlord",
+            "imgSrc": "blade.png",
+            "altText": "portfolio blade of the overlord",
+            "modalId": "bladeoftheoverlord",
+            "description": {
+                "en": "Robin, Connie and Jake are a group of friends that have played the Void Wars trading card game since they were kids. Now, older and facing more grown-up problems, they are drawn back to the card game after a nostalgic edition gets reprinted, including a very special card that is very dear to Robin: the famed Blade of the Overlord. The catch? This new version of the card was only printed once, and has still not been found. The friends will try their luck in finding it, with different opinions on what they would do if they managed to pull it.",
+                "es": "Robin, Connie y Jake son un grupo de amigos que han jugado al juego de cartas coleccionables Void Wars desde que eran niños. Ahora, mayores y enfrentando problemas más adultos, se sienten atraídos de nuevo al juego de cartas después de que se reimprima una edición nostálgica, incluyendo una carta muy especial que es muy querida para Robin: la famosa Blade of the Overlord. ¿El problema? Esta nueva versión de la carta solo se imprimió una vez y aún no se ha encontrado. Los amigos intentarán su suerte para encontrarla, con diferentes opiniones sobre lo que harían si lograran obtenerla."
+            },
+            "link": [{"store":"Itch.io", "icon": "itchio","url":"https://njaramillo.itch.io/blade-of-the-overlord"}],
+            "playOn": {
+                "en": "Download on",
+                "es": "Descárgalo en"
+            }
+        }
+    ]
+}
