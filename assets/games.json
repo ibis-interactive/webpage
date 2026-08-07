@@ -27,7 +27,22 @@
             "link": [{"store": "Google Play", "icon":"fa-brands fa-google-play", "url": "https://play.google.com/store/apps/details?id=com.ibisinteractive.longamovil"}, {"store": "App Store",  "icon":"fa-brands fa-app-store-ios", "url": "https://apps.apple.com/cl/app/longamovil/id6744369874"}],
             "playOn": {
                 "en": "Download on",
-                "es": "Descargalo en"
+                "es": "Descárgalo en"
+            }
+        },
+        {
+            "title": "Eco",
+            "imgSrc": "/assets/img/portfolio/eco.png",
+            "altText": "portfolio eco",
+            "modalId": "eco",
+            "description": {
+                "en": "Eco is an adventure game where you are a small creature that must find its own essence in a world of magical creatures.<br/>Build the masks of each species to gain new abilities, but use them carefully so you don't lose your nature completely...<br/>Original version developed at <strong>Global Game Jam Valdivia 2026</strong>",
+                "es": "Eco es un juego de aventura donde eres una pequeña criatura que debe su propia esencia en un mundo de criaturas mágicas.<br/>Construye las máscaras de cada especie para obtener nuevas habilidades, pero úsalas con cuidado para no perder tu naturaleza por completo...<br/>Versión original desarrollada en <strong>Global Game Jam Valdivia 2026</strong>"
+            },
+            "link": [{"store":"Itch.io", "icon": "fa-brands fa-itch-io","url":"https://ibis-interactive.itch.io/eco"}],
+            "playOn": {
+                "en": "Download on",
+                "es": "Descárgalo en"
             }
         },
         {
@@ -57,7 +72,7 @@
             "link": [{"store":"Itch.io", "icon": "fa-brands fa-itch-io","url":"https://njaramillo.itch.io/youre-next"}],
             "playOn": {
                 "en": "Download on",
-                "es": "Descargalo en"
+                "es": "Descárgalo en"
             }
         },
         {
@@ -72,7 +87,7 @@
             "link": [{"store":"Itch.io", "icon": "fa-brands fa-itch-io","url":"https://njaramillo.itch.io/blade-of-the-overlord"}],
             "playOn": {
                 "en": "Download on",
-                "es": "Descargalo en"
+                "es": "Descárgalo en"
             }
         }
     ]

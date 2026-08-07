@@ -23,7 +23,12 @@
             "url": "https://facebook.com/ibisinteractive.cl",
             "aria": "Ibis Interactive Facebook Page",
             "icon": "fa fa-brands fa-facebook"
+        },
+        {
+            "name": "twitch.tv",
+            "url": "https://www.twitch.tv/ibisinteractive",
+            "aria": "Ibis Interactive Twitch Page",
+            "icon": "fa fa-brands fa-twitch"
         }
-        
     ]
 }

@@ -173,7 +173,9 @@ body {
 }
 
 .modal-body p img {
-	max-width: 80%;
+	max-width: 90%;
+	min-width: 80%;
+	border-radius: 16px;
 }
 
 .modal-body .description-link {
