@@ -6,7 +6,16 @@
   "about": { "title": "About Us", "subtitle": "Who are we?", "description": "Ibis Interactive is a group of video game and visual arts enthusiasts located in Valdivia, Chile. With origins in Global Game Jams since 2020, the group grew and gained momentum in 2023, becoming formalized in 2025.<br/>Ibis seeks to create unique experiences with captivating stories and iconic art.", "video": "Ibis Interactive presentation" },
   "portfolio": { "title": "Our Games", "text": "A small selection of our games" },
   "team": { "title": "Our Team", "favorites": "Favorite games", "member": "Team member" },
-  "mainGame": { "title": "Don Pepe y sus globos", "description": "Don Pepe hosts the hottest game show on air, where contestants from around the world clash in intense water balloon fights.<br/>What started as a simple plan to scam children has become a legitimate sport, and there can only be one winner. Do you have what it takes?" },
+  "mainGame": { "title": "Don Pepe y sus globos", "description": "Don Pepe hosts the hottest game show on air, where contestants from around the world clash in intense water balloon fights.<br/>What started as a simple plan to scam children has become a legitimate sport, and there can only be one winner. Do you have what it takes?", "details": "Discover the game" },
+  "donPepe": {
+    "title": "Don Pepe y sus globos",
+    "summary": "Become a water balloon champion in a projectile arena fighter for up to four players.",
+    "description": "Don Pepe hosts the hottest game show on television. Contestants from around the world face off in intense water balloon battles to become the sole winner.",
+    "actions": { "steam": "View on Steam", "presskit": "Open press kit" },
+    "features": { "title": "Enter the competition", "items": ["Fight alone or with up to four players, locally or online.", "Choose characters, stages and rules in Battle Mode.", "Beat your high score in Arcade Mode and become the champion.", "Discover Don Pepe's story in Story Mode.", "Set up your own competition in Tournament Mode.", "Throw, run, roll and use items to gain an advantage in every match."] },
+    "facts": { "title": "Game facts", "developer": "Developer", "release": "Release", "players": "Players", "playersValue": "1 to 4, local and online", "platform": "Platform", "languages": "Languages", "languagesValue": "Spanish and English" },
+    "gallery": "Gallery", "screenshotAlt": "Don Pepe y sus globos screenshot {{number}}"
+  },
   "carousel": { "previous": "Previous", "next": "Next" },
   "common": { "close": "Close" },
   "privacy": {

@@ -1,0 +1,33 @@
+.game-detail { background: #fff; color: var(--dark-color); }
+.game-detail-hero { min-height: 620px; position: relative; display: flex; align-items: center; overflow: hidden; background: #171a20; }
+.game-detail-hero::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(20, 15, 15, .92) 0%, rgba(20, 15, 15, .52) 50%, rgba(20, 15, 15, .15) 100%); }
+.game-detail-hero-background { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.game-detail-hero-content { position: relative; z-index: 1; color: #fff; padding-top: 70px; padding-bottom: 70px; }
+.game-detail-hero-content p { max-width: 620px; font-size: 20px; line-height: 1.6; }
+.game-detail-logo { display: block; width: min(560px, 90%); max-height: 260px; object-fit: contain; object-position: left center; margin-bottom: 28px; }
+.game-detail-actions { display: flex; flex-wrap: wrap; gap: 12px; }
+.game-detail-actions .btn { border-radius: 4px; padding: 12px 22px; font-weight: 700; }
+.game-detail-primary { background: var(--main-color); color: #fff; }
+.game-detail-primary:hover { background: #d93838; color: #fff; }
+.game-detail-secondary { border: 2px solid #fff; color: #fff; }
+.game-detail-secondary:hover { background: #fff; color: var(--dark-color); }
+.game-detail-overview { padding-top: 90px; padding-bottom: 90px; }
+.game-detail-overview h1 { font-size: clamp(38px, 5vw, 62px); margin-bottom: 24px; }
+.game-detail-overview h2, .game-detail-gallery h2 { margin: 42px 0 24px; }
+.game-detail-lead { font-size: 18px; line-height: 1.8; }
+.game-detail-features { display: grid; gap: 14px; padding-left: 22px; }
+.game-detail-features li { padding-left: 6px; line-height: 1.6; }
+.game-detail-facts { background: #f7ece3; border-top: 5px solid var(--main-color); padding: 28px; }
+.game-detail-facts h2 { margin-top: 0; }
+.game-detail-facts dl, .game-detail-facts dd { margin: 0; }
+.game-detail-facts dl div { padding: 14px 0; border-bottom: 1px solid rgba(72, 25, 23, .15); }
+.game-detail-facts dl div:last-child { border-bottom: 0; }
+.game-detail-facts dt { font-weight: 700; }
+.game-detail-gallery { background: #231f20; color: #fff; padding: 70px 0 90px; }
+.game-detail-gallery h2 { color: #fff; margin-top: 0; }
+.game-detail-gallery img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; }
+@media (max-width: 767px) {
+  .game-detail-hero { min-height: 520px; }
+  .game-detail-hero::after { background: rgba(20, 15, 15, .68); }
+  .game-detail-overview { padding-top: 60px; padding-bottom: 60px; }
+}

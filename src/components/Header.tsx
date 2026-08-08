@@ -8,9 +8,9 @@ export default function Header() {
   const changeLanguage = (language: string) => void i18n.changeLanguage(language)
   return <>
     <nav className="navbar navbar-inverse navbar-expand-md fixed-top">
-      <div className="container-fluid px-md-5">
+      <div className="container-fluid px-md-2">
         <a className="navbar-brand" href="/#home-section" aria-label={t('brand.homeLabel')}>
-          <img id="brandImg" src="./images/about/ibis.png" alt="" /><span>{t('brand.name')}</span>
+          <img id="brandImg" src="/images/about/ibis.png" alt=""/><span>{t('brand.name')}</span>
         </a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label={t('nav.open')}><AppIcon name="fa-bars" /></button>
         <div className="collapse navbar-collapse justify-content-end" id="navbarToggler">
